@@ -1,3 +1,9 @@
+Foods:
 pancakes
 bacon
 eggs
+
+Movies:
+Star Wars
+Iron Man
+Batman: The Dark Knight
